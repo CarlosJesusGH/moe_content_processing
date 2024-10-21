@@ -1,0 +1,9 @@
+torch
+transformers[torch]
+scikit-learn
+mlflow
+notebook
+datasets
+seaborn
+torchvision
+dagshub

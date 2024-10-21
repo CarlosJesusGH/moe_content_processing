@@ -1,0 +1,2 @@
+Mixtures-of-Experts (MoE) is a state-of-the-art model typically used for
+processing text. This project is an adaptation of MoE models for image processing. The task is to implement a small mixture-of-experts model for processing images and train this model on a small image dataset.
